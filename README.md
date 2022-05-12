@@ -1,2 +1,2 @@
 # 2048
-![2048](https://user-images.githubusercontent.com/41434431/167835427-53ba584e-c303-4040-8253-3f957cbe22e6.jpg)
+https://user-images.githubusercontent.com/41434431/168004502-9e5612bc-5f6b-449b-9beb-d56e4ef1e9e9.mp4
