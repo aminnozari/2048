@@ -44,6 +44,21 @@ namespace _2048
                     tableLayoutPanel1.Controls.Add(game_board[i, j], i, j);
                 }
             }
+
+
+
+
+
+
+
+
+
+
+
+
+            //////////////
+            ///
+           //////
             //clean code
             int[] init_numbers = { 2, 2, 2, 2, 4 };
             Random r = new Random();
