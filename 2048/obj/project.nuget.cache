@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5wVxAELYzxGCMJpNbB88PZTqOzRPUNeAUczx8Zu4YpxrTn7SgF/LJ4P8URuGmPeeNm1+SRIgeX0bXVTv23rtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amin Die\\Desktop\\2048\\2048.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amin Die\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Amin Die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Amin Die\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Amin Die\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
